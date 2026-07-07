@@ -118,5 +118,10 @@
     "quote": "Experience is the name everyone gives to their mistakes.",
     "author": "Oscar Wilde",
     "category": "programming"
+  },
+  {
+    "quote": "Simplicity is prerequisite for reliability.",
+    "author": "Edsger W. Dijkstra",
+    "category": "programming"
   }
 ]
