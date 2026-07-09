@@ -18,5 +18,10 @@
     "quote": "Simplicity is prerequisite for reliability.",
     "author": "Edsger W. Dijkstra",
     "category": "programming"
+  },
+  {
+    "quote": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck",
+    "category": "programming"
   }
 ]
