@@ -28,5 +28,10 @@
     "quote": "Programming isn't about what you know; it's about what you can figure out.",
     "author": "Chris Pine",
     "category": "programming"
+  },
+  {
+    "quote": "Clean code always looks like it was written by someone who cares.",
+    "author": "Robert C. Martin",
+    "category": "programming"
   }
 ]
