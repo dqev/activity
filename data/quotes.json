@@ -138,5 +138,10 @@
     "quote": "Clean code always looks like it was written by someone who cares.",
     "author": "Robert C. Martin",
     "category": "programming"
+  },
+  {
+    "quote": "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.",
+    "author": "Antoine de Saint-Exup\u00e9ry",
+    "category": "programming"
   }
 ]
